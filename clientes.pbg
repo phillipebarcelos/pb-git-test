@@ -1,0 +1,13 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "clientes.pbl" "";
+@end;
+@begin Objects
+ "app_clientes.sra" "clientes.pbl";
+ "d_cliente_detalhe.srd" "clientes.pbl";
+ "d_cliente_lista.srd" "clientes.pbl";
+ "n_cst_autoteste.sru" "clientes.pbl";
+ "n_cst_cliente_dados.sru" "clientes.pbl";
+ "n_cst_validacao.sru" "clientes.pbl";
+ "w_cliente.srw" "clientes.pbl";
+@end;
